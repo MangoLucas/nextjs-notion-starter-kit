@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Mango's space',
+  name: 'MangoSpace',
   domain: 'https://mangolucas.notion.site/25f871297df380c4b03accd6b8b70c74',
   author: 'Lucas',
 
